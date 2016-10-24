@@ -1,0 +1,17 @@
+//
+//  ZXingObjC-Prefix.pch
+//  ZXingObjC
+//
+//  Created by 王亮 on 2016/10/21.
+//  Copyright © 2016年 wangliang. All rights reserved.
+//
+
+//#ifndef ZXingObjC_Prefix_h
+//#define ZXingObjC_Prefix_h
+//
+//
+//#endif /* ZXingObjC_Prefix_h */
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#endif
